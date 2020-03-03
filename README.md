@@ -7,3 +7,4 @@ Goto https://github.com/DontCallMeAqua/DiscordPi/releases to download.
 
 DISCLAIMER:
 This is NOT a custom client and does not break the Discord Terms of Service therefore will not result in any account bans.
+DiscordPi is entirely Web-based.
