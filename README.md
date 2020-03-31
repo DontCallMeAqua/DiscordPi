@@ -2,9 +2,18 @@
 Discord for the Raspberry Pi!
 Created by Aqua/Aquarius/Aquarirus
 
+# Download with terminal
+Install DiscordPi via the Terminal
+
+First, open the Terminal via: `CTRL`+`Alt`+`T`.
+Then, paste in the following command:
+`cd Desktop && wget http://bit.ly/DiscordPi`
+DiscordPi should now be on your Desktop.
+
+# Portable download
 Goto https://github.com/DontCallMeAqua/DiscordPi/releases to download.
 (DiscordPi is designed for uWinux and Raspbian and may not run correctly on other Linux distros)
 
-DISCLAIMER:
+# DISCLAIMER:
 This is NOT a custom client and does not break the Discord Terms of Service therefore will not result in any account bans.
 DiscordPi is entirely Web-based.
