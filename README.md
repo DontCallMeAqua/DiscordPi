@@ -6,8 +6,13 @@ Created by Aqua/Aquarius/Aquarirus
 Install DiscordPi via the Terminal
 
 First, open the Terminal via: `CTRL`+`Alt`+`T`.
-Then, paste in the following command:
-`cd Desktop && wget http://bit.ly/DiscordPi`
+Then, run the following commands:
+
+`cd Desktop`
+`sudo apt-get upgrade`
+`wget http://bit.ly/DiscordPi`
+`sudo apt-get update`
+
 DiscordPi should now be on your Desktop.
 
 # Portable download
